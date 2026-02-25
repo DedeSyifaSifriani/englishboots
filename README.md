@@ -1,4 +1,4 @@
-# EnglishBoost - Landing Page Website
+# EnglishBoost - Landing Page 
 
 ## 📌 Deskripsi Project
 EnglishBoost adalah website landing page bertema pembelajaran Bahasa Inggris yang dirancang dengan desain modern dan responsif. Website ini dibuat menggunakan HTML, CSS, dan sedikit JavaScript untuk fitur interaktif.
